@@ -1,0 +1,3 @@
+C:/Users/cloudwalker/OneDrive - 80shgy/code/C&C++/CLion/LFSR/cmake-build-debug/CMakeFiles/LFSR.dir
+C:/Users/cloudwalker/OneDrive - 80shgy/code/C&C++/CLion/LFSR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cloudwalker/OneDrive - 80shgy/code/C&C++/CLion/LFSR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
