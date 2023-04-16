@@ -1,0 +1,3 @@
+C:/Users/cloudwalker/OneDrive - 80shgy/code/C&C++/CLion/1.16/cmake-build-debug/CMakeFiles/1_16.dir
+C:/Users/cloudwalker/OneDrive - 80shgy/code/C&C++/CLion/1.16/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cloudwalker/OneDrive - 80shgy/code/C&C++/CLion/1.16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
